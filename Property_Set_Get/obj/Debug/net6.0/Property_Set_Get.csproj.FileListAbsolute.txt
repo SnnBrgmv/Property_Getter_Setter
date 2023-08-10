@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(7) 10.08.2023\Property_Set_Get\Property_Set_Get\bin\Debug\net6.0\Property_Set_Get.exe
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(7) 10.08.2023\Property_Set_Get\Property_Set_Get\bin\Debug\net6.0\Property_Set_Get.deps.json
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(7) 10.08.2023\Property_Set_Get\Property_Set_Get\bin\Debug\net6.0\Property_Set_Get.runtimeconfig.json
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(7) 10.08.2023\Property_Set_Get\Property_Set_Get\bin\Debug\net6.0\Property_Set_Get.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(7) 10.08.2023\Property_Set_Get\Property_Set_Get\bin\Debug\net6.0\Property_Set_Get.pdb
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(7) 10.08.2023\Property_Set_Get\Property_Set_Get\obj\Debug\net6.0\Property_Set_Get.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(7) 10.08.2023\Property_Set_Get\Property_Set_Get\obj\Debug\net6.0\Property_Set_Get.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(7) 10.08.2023\Property_Set_Get\Property_Set_Get\obj\Debug\net6.0\Property_Set_Get.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(7) 10.08.2023\Property_Set_Get\Property_Set_Get\obj\Debug\net6.0\Property_Set_Get.AssemblyInfo.cs
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(7) 10.08.2023\Property_Set_Get\Property_Set_Get\obj\Debug\net6.0\Property_Set_Get.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(7) 10.08.2023\Property_Set_Get\Property_Set_Get\obj\Debug\net6.0\Property_Set_Get.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(7) 10.08.2023\Property_Set_Get\Property_Set_Get\obj\Debug\net6.0\refint\Property_Set_Get.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(7) 10.08.2023\Property_Set_Get\Property_Set_Get\obj\Debug\net6.0\Property_Set_Get.pdb
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(7) 10.08.2023\Property_Set_Get\Property_Set_Get\obj\Debug\net6.0\Property_Set_Get.genruntimeconfig.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(7) 10.08.2023\Property_Set_Get\Property_Set_Get\obj\Debug\net6.0\ref\Property_Set_Get.dll
